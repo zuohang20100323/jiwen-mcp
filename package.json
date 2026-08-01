@@ -1,0 +1,17 @@
+{
+  "name": "jiwen-mcp",
+  "version": "1.0.0",
+  "description": "积温MCP服务器 - AI角色主动意识引擎",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node jiwen.test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "@clarashafiq/jiwen": "^1.0.0"
+  },
+  "keywords": ["mcp", "jiwen", "emotion", "ai"],
+  "author": "zuohang20100323",
+  "license": "MIT"
+}
